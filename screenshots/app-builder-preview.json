@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DUPZY Cakes N' Bags",
+      "hasCanvas": false,
+      "bodyTextLen": 3598,
+      "bodyTextHash": "2b34dedcb42599c15c9c49211820293fec65aa3cdf2691a888d35ad52909e83b",
+      "bodyTextPrefix": "DUPZY CAKES N' BAGS Home Gallery About Contact Start a message D",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DUPZY Cakes N' Bags",
+      "hasCanvas": false,
+      "bodyTextLen": 3571,
+      "bodyTextHash": "e85292237e910bee364b6166c66ce173fe55a9d061899fccb9a53a4ed675e17c",
+      "bodyTextPrefix": "DUPZY CAKES N' BAGS DUPZY Cakes N' Bags The cake for the day. Th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
